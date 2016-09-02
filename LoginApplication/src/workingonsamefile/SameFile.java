@@ -7,6 +7,6 @@ public class SameFile {
 		  count=count+i;
 		  System.out.println(i);
 	  }
-	  System.out.println(count);
+	  System.out.println(count/10*100);
   }
 }
